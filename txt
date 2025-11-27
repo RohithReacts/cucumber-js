@@ -1,0 +1,5 @@
+npx cucumber-js --tags "@portfolio"
+npx cucumber-js --tags "@Playwright"
+npx cucumber-js --tags "@SlayCoffee"
+npx cucumber-js --tags "@user"
+npx cucumber-js --tags "@american_tourister"
